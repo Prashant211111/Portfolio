@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46196c29.css",
+    "main.js": "/static/js/main.ab4e45ed.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.78d4407d2d0ccf452cde.png",
+    "static/media/Prashant Resume.pdf": "/static/media/Prashant Resume.2533aee3e5c6f8705dc6.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/DigitalClock.png": "/static/media/DigitalClock.9bb8084ac468ff8c255c.png",
+    "static/media/Virtual_Attendance_management_System.png": "/static/media/Virtual_Attendance_management_System.2b2148daec060971762b.png",
+    "static/media/Weather-Application.png": "/static/media/Weather-Application.aa219abd02dc09cf7f50.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/spinning-circles.svg": "/static/media/spinning-circles.749df8fb8d416f0ab448.svg",
+    "index.html": "/index.html",
+    "main.46196c29.css.map": "/static/css/main.46196c29.css.map",
+    "main.ab4e45ed.js.map": "/static/js/main.ab4e45ed.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46196c29.css",
+    "static/js/main.ab4e45ed.js"
+  ]
+}

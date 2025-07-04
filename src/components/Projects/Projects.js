@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import Virtual_Attendance_management_System from "../../Assets/Projects/Virtual_Attendance_management_System.png";
 import DigitalClock from "../../Assets/Projects/DigitalClock.png";
 import bitsOfCode from "../../Assets/Projects/Weather-Application.png";
+import ContentSphere from "../../Assets/Projects/ContentSphere.png";
 
 function Projects() {
   return (
@@ -18,6 +19,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ContentSphere}
+              isBlog={false}
+              title="Content Sphere"
+              description="A React web app that fetches and displays API data using Redux Toolkit and Context API, featuring pagination, dynamic UI updates, and efficient state management."
+              ghLink="https://github.com/Prashant211111/ReduxProject"
+              demoLink="https://redux-project-hazel-phi.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={DigitalClock}
@@ -47,7 +58,6 @@ function Projects() {
               title="Virtual_Attendance_management_System"
               description="Developed an web application for personalized virtual Attendance, leveraging scalable backend architecture. Implemented secure user authentication and data storage with MySQL, enhancing user trust and experience. Result: Improved user experience by providing dynamic Application and notified by mail services."
               ghLink="https://github.com/Prashant211111/Virtual_Attendance_management_System.git"
-              // demoLink=""      <--------Please include a demo link here 
             />
           </Col>
         </Row>

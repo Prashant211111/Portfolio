@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Prashant Kushwaha </span>
             from <span className="purple"> Bhopal, India.</span>
             <br />
-            Currently I am Persuing Bachelor of  Technology 4th Year.
+            Recently i have graduated from Bachelor of technology in CSE stream.
             <br />
             I have completed 10th in 2019 and 12th in 2021.
             <br />
