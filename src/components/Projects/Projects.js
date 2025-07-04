@@ -22,7 +22,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={ContentSphere}
-              isBlog={false}
+              isBlog={false}git 
               title="Content Sphere"
               description="A React web app that fetches and displays API data using Redux Toolkit and Context API, featuring pagination, dynamic UI updates, and efficient state management."
               ghLink="https://github.com/Prashant211111/ReduxProject"
