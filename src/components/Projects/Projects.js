@@ -6,6 +6,7 @@ import Virtual_Attendance_management_System from "../../Assets/Projects/Virtual_
 import DigitalClock from "../../Assets/Projects/DigitalClock.png";
 import bitsOfCode from "../../Assets/Projects/Weather-Application.png";
 import ContentSphere from "../../Assets/Projects/ContentSphere.png";
+import Admin from "../../Assets/Projects/Admin.png";
 
 function Projects() {
   return (
@@ -27,6 +28,16 @@ function Projects() {
               description="A React web app that fetches and displays API data using Redux Toolkit and Context API, featuring pagination, dynamic UI updates, and efficient state management."
               ghLink="https://github.com/Prashant211111/ReduxProject"
               demoLink="https://redux-project-hazel-phi.vercel.app/"
+            />
+          </Col>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Admin}
+              isBlog={false}
+              title="Dashboard-Admin"
+              description="This Admin Dashboard is a responsive and feature-rich web interface built using ReactJS, Material UI, Context API, and JavaScript. Styled with Material UI and powered by Context API for global state management, this dashboard ensures a seamless and scalable admin experience."
+              ghLink="https://github.com/Prashant211111/AdminSphere.git"
+              demoLink="https://admin-sphere-theta.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
